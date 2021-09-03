@@ -1,0 +1,5 @@
+File: gh-br2-f300.txt created on github/gh-br2 branch.
+gh-br2 branch is 7 commits behind gh/main.
+Pull request was opened before this file was created.  But not merged.
+After this file is created and committed; the prevously open pull request will be merged.
+This is to see what kind of conflicts may arise from this.
