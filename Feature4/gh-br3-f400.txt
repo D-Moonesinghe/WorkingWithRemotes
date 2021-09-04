@@ -9,6 +9,12 @@ This is line 3-Local
 This is line 4-Local
 This is line 5-Local
 This is line 6-Local
+This is line 1-GH
+This is line 2-GH
+This is line 3-GH
+This is line 4-GH
+This is line 5-GH
+This is line 6-GH
 First Hunk created on GH/gh-br3 branch.
 
 
