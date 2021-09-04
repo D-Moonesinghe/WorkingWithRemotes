@@ -3,12 +3,12 @@ This file is used for verifying git merge conflict behavior.
 File will only retain GH side changes as conflict resoultion.
 
 First Hunk
-This is line 1
-This is line 2
-This is line 3
-This is line 4
-This is line 5
-This is line 6
+This is line 1-GH
+This is line 2-GH
+This is line 3-GH
+This is line 4-GH
+This is line 5-GH
+This is line 6-GH
 First Hunk created on GH/gh-br3 branch.
 
 
