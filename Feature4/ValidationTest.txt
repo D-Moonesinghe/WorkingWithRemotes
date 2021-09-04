@@ -1,0 +1,27 @@
+F400 was created on gh.
+F401 & 2 were created local/gh-br3.
+All files during its creation; was seeded with the first hunk.
+
+2nd Hunk for F400 will be created locally
+2nd Hunk for F401 & 402 will be created on GH.
+
+First File Hashes
+100644 b35e62a25779aa9abed6ccb608eb4277bf888859 0       Feature4/gh-br3-f400.txt
+100644 f1b33bfbfae6bdd6559e4e26410815a058ac489f 0       Feature4/gh-br3-f401.txt
+100644 9e7e303666cf578d3f4d0ea4eee5fdf047e675a0 0       Feature4/gh-br3-f402.txt
+
+
+2nd File Hashes
+100644 77215368368ab6b60a9c9ab1c7b64c936a254b79 0       Feature4/ValidationTest.txt
+100644 a81ba4b6c17389034f3c1fdd686df51a08e45344 0       Feature4/gh-br3-f400.txt
+100644 0e836234a475e9b9a0517a18b04cf7ac17290ef8 0       Feature4/gh-br3-f401.txt
+100644 c48dde358e6b175a963cb00d3f0d56d68b26cbfb 0       Feature4/gh-br3-f402.txt
+
+Conflict causing changes locally done on gh-br3-f400.txt
+100644 7d77146924032f99ec6a2dd5e50e122813783351 0       Feature4/gh-br3-f400.txt
+100644 b299ff4ca3a96f0a6ee6ee2a42bddbabc9cd9785 0       Feature4/gh-br3-f400.txt
+
+Local f401.txt before pushing
+100644 96fb237c79fb2160246389acb07af548052c63e3 0       Feature4/gh-br3-f401.txt 
+
+100644 0d51d5d080b701e0342d3ba8ff9de727accb9c5e 0       Feature4/gh-br3-f402.txt

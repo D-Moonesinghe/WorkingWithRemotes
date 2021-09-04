@@ -1,0 +1,28 @@
+File: gh-br3-f401.txt created in GiHub/gh-br3 branch. Commit#18 in gh-br3.
+This file is used for verifying git merge conflict behavior.
+File will only retain Local side changes as conflict resoultion.
+
+First Hunk created on Local/gh-br3 branch.
+First Hunk
+This is line 1-local
+This is line 2-local
+This is line 3-local
+This is line 4-local
+This is line 5-local
+This is line 6-local
+
+2nd hunk.
+This is line 1
+This is line 2
+This is line 3
+This is line 4
+This is line 5
+This is line 6
+
+3rd hunk.
+This is line 1
+This is line 2
+This is line 3
+This is line 4
+This is line 5
+This is line 6
